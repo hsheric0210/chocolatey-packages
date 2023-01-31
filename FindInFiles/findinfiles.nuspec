@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>findinfiles</id>
+    <version>3.6.26</version>
+    <!-- <packageSourceUrl>https://github.com/toolscode/findinfiles</packageSourceUrl>-->
+    <owners>AnnaiVk4</owners>
+    <title>FindInFiles</title>
+    <authors>ToolsCode</authors>
+    <projectUrl>https://github.com/toolscode/findinfiles</projectUrl>
+    <!--<iconUrl>http://rawcdn.githack.com/__REPLACE_YOUR_REPO__/master/icons/findinfiles.png</iconUrl>-->
+    <copyright>Copyright © ToolsCode</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<projectSourceUrl>https://github.com/toolscode/findinfiles</projectSourceUrl>-->
+    <bugTrackerUrl>https://github.com/toolscode/findinfiles/issues</bugTrackerUrl>
+    <tags>findinfiles searching</tags>
+    <summary>FindInFiles is searching text in sources for developers in Windows and macOS.</summary>
+    <description>FindInFiles is searching text in sources for developers in Windows and macOS.
+You can read more about FindInFiles on its official site: https://toolscode.com. Come get some!</description>
+    <releaseNotes>https://toolscode.com/findinfiles/index.html</releaseNotes>
+    <!-- =============================== -->
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
