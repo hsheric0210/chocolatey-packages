@@ -3,8 +3,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>FindInFiles</id>
-    <version>3.6.26.20230201</version>
-    <!-- <packageSourceUrl>https://github.com/toolscode/findinfiles</packageSourceUrl>-->
+    <version>3.6.26</version>
+    <packageSourceUrl>https://github.com/hsheric0210/chocolatey-packages/tree/main/FindInFiles</packageSourceUrl>
     <owners>AnnaiVk4</owners>
     <title>FindInFiles</title>
     <authors>ToolsCode</authors>
@@ -12,7 +12,7 @@
     <iconUrl>https://cdn.jsdelivr.net/gh/hsheric0210/chocolatey-packages@main/FindInFiles/icon.png</iconUrl>
     <copyright>Copyright © ToolsCode</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<projectSourceUrl>https://github.com/toolscode/findinfiles</projectSourceUrl>-->
+    <projectSourceUrl>https://github.com/toolscode/findinfiles</projectSourceUrl>
     <bugTrackerUrl>https://github.com/toolscode/findinfiles/issues</bugTrackerUrl>
     <tags>findinfiles search admin freeware</tags>
     <summary>FindInFiles is searching text in sources for developers in Windows and macOS.</summary>
